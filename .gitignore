@@ -1,0 +1,3 @@
+.venv
+src/learn_ml_potential_metal.egg-info
+src/**/__pycache__
