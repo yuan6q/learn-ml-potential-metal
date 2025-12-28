@@ -1,5 +1,5 @@
-from data_processing.dataset import MDPotentialDataset
-from data_processing.visualization import (
+from learnmlp.data_processing.dataset import MDPotentialDataset
+from learnmlp.data_processing.visualization import (
     plot_energy_histogram,
     plot_force_magnitude,
     plot_energy_vs_temperature

@@ -1,4 +1,4 @@
-from systems.cu_fcc import CuFCCBuilder
+from learnmlp.systems.cu_fcc import CuFCCBuilder
 
 builder = CuFCCBuilder(
     lattice_constant=3.615,

@@ -1,0 +1,6 @@
+numpy
+ase
+matplotlib
+seaborn
+torch
+torchmd-net

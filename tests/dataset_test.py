@@ -1,4 +1,4 @@
-from src.data_processing.dataset import MDPotentialDataset
+from learnmlp.data_processing.dataset import MDPotentialDataset
 
 traj_files = [
     "data/raw/cu_nvt_300K.traj",

@@ -1,5 +1,5 @@
 from ase.calculators.emt import EMT
-from systems.cu_fcc import CuFCCBuilder
+from learnmlp.systems.cu_fcc import CuFCCBuilder
 
 # 构建 Cu 超胞
 builder = CuFCCBuilder()
