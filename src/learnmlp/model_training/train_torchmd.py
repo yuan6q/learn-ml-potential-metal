@@ -2,7 +2,7 @@ import torch
 from torch.utils.data import DataLoader
 from torchmdnet.models.model import TorchMD_Net
 
-from learnmlp.data_processing.torchmd_dataset import TorchMDDataset
+from learnmlp.data_processing.dataset import TorchMDDataset
 
 
 def train():
